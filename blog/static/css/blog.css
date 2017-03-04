@@ -41,3 +41,9 @@
     .post h1 a, .post h1 a:visited {
         color: #364d87;
     }
+    
+    .a {
+        padding-left: 20px;
+        font-size: 26pt;
+        font-family: Helvetica, Arial, serif;
+    }
